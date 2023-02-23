@@ -1,0 +1,5 @@
+Name: Tina		Roll no: 1		Marks: 45.00
+Name: Nina		Roll no: 5		Marks: 89.00
+Name: Tim		Roll no: 2		Marks: 49.00
+Name: Jim		Roll no: 8		Marks: 41.00
+Name: King		Roll no: 9		Marks: 59.00
