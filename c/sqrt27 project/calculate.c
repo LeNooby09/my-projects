@@ -4,7 +4,7 @@
 int main()
 {
     mpfr_t x;
-    mpfr_init2(x, 100000); //precision max10000000000
+    mpfr_init2(x, 100000);
 
     mpfr_set_ui(x, 27, MPFR_RNDN);
     mpfr_sqrt(x, x, MPFR_RNDN);
